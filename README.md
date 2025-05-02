@@ -1,4 +1,4 @@
-# Solana MEV Arbitrage Bot (Rust)
+# Solana MEV Arbitrage Bot (Rust) ![MIT License](https://svg-shields.com/badge/b3j/license-MIT-blue.svg)
 
 A high-performance arbitrage bot written in Rust that identifies and executes MEV opportunities across multiple Solana DEX platforms.
 
